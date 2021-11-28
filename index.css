@@ -3,7 +3,7 @@
 }
 
 .text {
-  color: rgb(247, 193, 255);
+  color: corn-silk;
   text-align: center;
   margin-top: 100px;
 }
@@ -11,7 +11,7 @@
 .circle {
   width: 250px;
   height: 250px;
-  background-color: rgb(247, 193, 255);
+  background-color: corn-silk;
   border-radius: 50%;
   position: absolute;
   top: 0;
